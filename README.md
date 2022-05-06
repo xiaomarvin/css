@@ -1,4 +1,4 @@
-# css 总结
+# less
 ```
 .loop( @count )when( @count > 0 ){ 
 	.m@{count}{ margin: ( 1px * @count ); } 
